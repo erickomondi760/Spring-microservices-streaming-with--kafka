@@ -1,4 +1,4 @@
- 📡 Spring Microservices Streaming with Kafka
+# 📡 Spring Microservices Streaming with Kafka
 
 A Java-based project demonstrating **event-driven microservices architecture** using **Spring Boot** and **Apache Kafka**. This repository showcases how multiple microservices can communicate asynchronously through Kafka topics, enabling scalable and resilient systems.
 
